@@ -1,4 +1,5 @@
-# EPS256-FA20
+# Earthquake of the Week - EPS256 - Fall 2020
+
 Graduate Seminar on Earthquakes
 
 Prof Richard Allen
