@@ -29,3 +29,5521 @@ Variance=1.745e-05
 VarRed=2.237e+01
 Var/Pdc=1.902e-07
 Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(2): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(3): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(4): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=7894.050
+Mxy=12404.870
+Mxz=8539.799
+Myy=-9032.356
+Myz=-1705.447
+Mzz=1138.307
+eigen1=-5.98479e+21
+eigen2=-1.73572e+24
+eigen3=1.74171e+24
+Mo=1.73871e+24  (1.74171e+24)
+Mw=5.43
+Strike=72 ; 164
+Rake=150 ; 4
+Dip=86 ; 60
+Pdc=99
+Pclvd=1
+Piso=0
+Variance=2.038e-05
+VarRed=2.344e+01
+Var/Pdc=2.052e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.000  Zcor=59
+Station(1): JCZ.data  R=120.2km  AZI=60.3  W=1.229  Zcor=64
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.498  Zcor=63
+Station(3): WKZ.data  R=123.9km  AZI=101.5  W=1.267  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=2931.298
+Mxy=11099.600
+Mxz=3215.060
+Myy=-4710.917
+Myz=711.253
+Mzz=1779.620
+eigen1=9.7185e+22
+eigen2=1.17742e+24
+eigen3=-1.27461e+24
+Mo=1.22602e+24  (1.27461e+24)
+Mw=5.33
+Strike=79 ; 172
+Rake=164 ; 8
+Dip=82 ; 74
+Pdc=85
+Pclvd=15
+Piso=0
+Variance=3.314e-06
+VarRed=4.966e+01
+Var/Pdc=3.910e-08
+Quality=2
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.000  Zcor=60
+Station(1): JCZ.data  R=120.2km  AZI=60.3  W=1.229  Zcor=64
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.498  Zcor=63
+Station(3): WKZ.data  R=123.9km  AZI=101.5  W=1.267  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=2646.708
+Mxy=10965.598
+Mxz=3002.620
+Myy=-4459.074
+Myz=-530.075
+Mzz=1812.366
+eigen1=1.65455e+23
+eigen2=1.11132e+24
+eigen3=-1.27677e+24
+Mo=1.19405e+24  (1.27677e+24)
+Mw=5.32
+Strike=80 ; 171
+Rake=165 ; 3
+Dip=87 ; 75
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=3.444e-06
+VarRed=4.784e+01
+Var/Pdc=4.649e-08
+Quality=2
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(2): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5639.071
+Mxy=11535.134
+Mxz=18657.320
+Myy=-6144.879
+Myz=2671.921
+Mzz=505.808
+eigen1=-6.59582e+23
+eigen2=-1.8851e+24
+eigen3=2.54468e+24
+Mo=2.21489e+24  (2.54468e+24)
+Mw=5.50
+Strike=83 ; 174
+Rake=125 ; 1
+Dip=89 ; 35
+Pdc=48
+Pclvd=52
+Piso=0
+Variance=1.990e-06
+VarRed=6.708e+01
+Var/Pdc=4.132e-08
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8509.720
+Mxy=11473.551
+Mxz=8501.734
+Myy=-8581.078
+Myz=-3604.184
+Mzz=71.358
+eigen1=7.18851e+22
+eigen2=1.66568e+24
+eigen3=-1.73757e+24
+Mo=1.70162e+24  (1.73757e+24)
+Mw=5.42
+Strike=252 ; 161
+Rake=-147 ; -1
+Dip=89 ; 57
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=1.745e-05
+VarRed=2.237e+01
+Var/Pdc=1.902e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=60
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=9257.156
+Mxy=10498.578
+Mxz=6003.010
+Myy=-7656.488
+Myz=1594.198
+Mzz=-1600.668
+eigen1=-3.54458e+23
+eigen2=-1.28159e+24
+eigen3=1.63604e+24
+Mo=1.45882e+24  (1.63604e+24)
+Mw=5.38
+Strike=70 ; 162
+Rake=162 ; 9
+Dip=82 ; 72
+Pdc=57
+Pclvd=43
+Piso=0
+Variance=1.791e-05
+VarRed=1.951e+01
+Var/Pdc=3.161e-07
+Quality=0
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=61
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=9199.204
+Mxy=10994.940
+Mxz=7163.982
+Myy=-8031.046
+Myz=-71.290
+Mzz=-1168.158
+eigen1=-2.61143e+23
+eigen2=-1.42617e+24
+eigen3=1.68732e+24
+Mo=1.55675e+24  (1.68732e+24)
+Mw=5.40
+Strike=71 ; 162
+Rake=155 ; 3
+Dip=87 ; 65
+Pdc=69
+Pclvd=31
+Piso=0
+Variance=1.766e-05
+VarRed=2.103e+01
+Var/Pdc=2.558e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=62
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8944.270
+Mxy=11327.340
+Mxz=8023.892
+Myy=-8345.521
+Myz=-1845.703
+Mzz=-598.748
+eigen1=-1.08492e+23
+eigen2=-1.58959e+24
+eigen3=1.69808e+24
+Mo=1.64383e+24  (1.69808e+24)
+Mw=5.41
+Strike=72 ; 162
+Rake=150 ; 0
+Dip=90 ; 60
+Pdc=87
+Pclvd=13
+Piso=0
+Variance=1.750e-05
+VarRed=2.202e+01
+Var/Pdc=2.007e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8509.720
+Mxy=11473.551
+Mxz=8501.734
+Myy=-8581.078
+Myz=-3604.184
+Mzz=71.358
+eigen1=7.18851e+22
+eigen2=1.66568e+24
+eigen3=-1.73757e+24
+Mo=1.70162e+24  (1.73757e+24)
+Mw=5.42
+Strike=252 ; 161
+Rake=-147 ; -1
+Dip=89 ; 57
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=1.745e-05
+VarRed=2.237e+01
+Var/Pdc=1.902e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=64
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=7927.315
+Mxy=11424.255
+Mxz=8545.723
+Myy=-8723.881
+Myz=-5224.286
+Mzz=796.565
+eigen1=2.57981e+23
+eigen2=1.59042e+24
+eigen3=-1.8484e+24
+Mo=1.71941e+24  (1.8484e+24)
+Mw=5.43
+Strike=251 ; 160
+Rake=-146 ; -2
+Dip=88 ; 56
+Pdc=72
+Pclvd=28
+Piso=0
+Variance=1.750e-05
+VarRed=2.204e+01
+Var/Pdc=2.428e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8509.720
+Mxy=11473.551
+Mxz=8501.734
+Myy=-8581.078
+Myz=-3604.184
+Mzz=71.358
+eigen1=7.18851e+22
+eigen2=1.66568e+24
+eigen3=-1.73757e+24
+Mo=1.70162e+24  (1.73757e+24)
+Mw=5.42
+Strike=252 ; 161
+Rake=-147 ; -1
+Dip=89 ; 57
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=1.745e-05
+VarRed=2.237e+01
+Var/Pdc=1.902e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=63
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8379.812
+Mxy=11332.113
+Mxz=8347.208
+Myy=-8746.864
+Myz=-2380.743
+Mzz=367.052
+eigen1=-1.35344e+22
+eigen2=-1.6581e+24
+eigen3=1.67164e+24
+Mo=1.66487e+24  (1.67164e+24)
+Mw=5.42
+Strike=71 ; 162
+Rake=149 ; 2
+Dip=89 ; 59
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=1.751e-05
+VarRed=2.204e+01
+Var/Pdc=1.780e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=65
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8506.883
+Mxy=11529.134
+Mxz=8595.397
+Myy=-8334.408
+Myz=-4918.861
+Mzz=-172.475
+eigen1=1.77324e+23
+eigen2=1.64214e+24
+eigen3=-1.81947e+24
+Mo=1.7308e+24  (1.81947e+24)
+Mw=5.43
+Strike=252 ; 160
+Rake=-146 ; -4
+Dip=87 ; 56
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=1.745e-05
+VarRed=2.233e+01
+Var/Pdc=2.168e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=63
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=65
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8843.694
+Mxy=11804.110
+Mxz=9055.300
+Myy=-6624.155
+Myz=-2326.275
+Mzz=-2219.539
+eigen1=-1.51864e+23
+eigen2=-1.62267e+24
+eigen3=1.77454e+24
+Mo=1.6986e+24  (1.77454e+24)
+Mw=5.42
+Strike=256 ; 163
+Rake=-146 ; -5
+Dip=86 ; 56
+Pdc=83
+Pclvd=17
+Piso=0
+Variance=1.756e-05
+VarRed=2.174e+01
+Var/Pdc=2.119e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=63
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8846.530
+Mxy=11748.527
+Mxz=8961.637
+Myy=-6870.825
+Myz=-1011.598
+Mzz=-1975.706
+eigen1=-2.60598e+23
+eigen2=-1.5399e+24
+eigen3=1.80049e+24
+Mo=1.6702e+24  (1.80049e+24)
+Mw=5.42
+Strike=255 ; 164
+Rake=-147 ; -2
+Dip=88 ; 57
+Pdc=71
+Pclvd=29
+Piso=0
+Variance=1.755e-05
+VarRed=2.179e+01
+Var/Pdc=2.470e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=62
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8936.195
+Mxy=11805.979
+Mxz=8526.335
+Myy=-6536.954
+Myz=137.381
+Mzz=-2399.242
+eigen1=-3.72439e+23
+eigen2=-1.44432e+24
+eigen3=1.81676e+24
+Mo=1.63054e+24  (1.81676e+24)
+Mw=5.41
+Strike=255 ; 165
+Rake=-150 ; -0
+Dip=90 ; 60
+Pdc=59
+Pclvd=41
+Piso=0
+Variance=1.757e-05
+VarRed=2.168e+01
+Var/Pdc=2.978e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=60
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=9124.520
+Mxy=11910.672
+Mxz=7618.993
+Myy=-6005.288
+Myz=2002.145
+Mzz=-3119.232
+eigen1=-5.38169e+23
+eigen2=-1.30166e+24
+eigen3=1.83983e+24
+Mo=1.57075e+24  (1.83983e+24)
+Mw=5.40
+Strike=74 ; 166
+Rake=156 ; 4
+Dip=86 ; 66
+Pdc=41
+Pclvd=59
+Piso=0
+Variance=1.759e-05
+VarRed=2.162e+01
+Var/Pdc=4.238e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=59
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=9218.460
+Mxy=11948.804
+Mxz=7222.058
+Myy=-5827.687
+Myz=2553.389
+Mzz=-3390.773
+eigen1=-5.79541e+23
+eigen2=-1.2642e+24
+eigen3=1.84374e+24
+Mo=1.55397e+24  (1.84374e+24)
+Mw=5.40
+Strike=74 ; 166
+Rake=159 ; 7
+Dip=84 ; 69
+Pdc=37
+Pclvd=63
+Piso=0
+Variance=1.759e-05
+VarRed=2.165e+01
+Var/Pdc=4.736e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(2): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(3): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(4): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=7894.050
+Mxy=12404.870
+Mxz=8539.799
+Myy=-9032.356
+Myz=-1705.447
+Mzz=1138.307
+eigen1=-5.98479e+21
+eigen2=-1.73572e+24
+eigen3=1.74171e+24
+Mo=1.73871e+24  (1.74171e+24)
+Mw=5.43
+Strike=72 ; 164
+Rake=150 ; 4
+Dip=86 ; 60
+Pdc=99
+Pclvd=1
+Piso=0
+Variance=2.038e-05
+VarRed=2.344e+01
+Var/Pdc=2.052e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.000  Zcor=59
+Station(1): JCZ.data  R=120.2km  AZI=60.3  W=1.229  Zcor=64
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.498  Zcor=63
+Station(3): WKZ.data  R=123.9km  AZI=101.5  W=1.267  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=2931.298
+Mxy=11099.600
+Mxz=3215.060
+Myy=-4710.917
+Myz=711.253
+Mzz=1779.620
+eigen1=9.7185e+22
+eigen2=1.17742e+24
+eigen3=-1.27461e+24
+Mo=1.22602e+24  (1.27461e+24)
+Mw=5.33
+Strike=79 ; 172
+Rake=164 ; 8
+Dip=82 ; 74
+Pdc=85
+Pclvd=15
+Piso=0
+Variance=3.314e-06
+VarRed=4.966e+01
+Var/Pdc=3.910e-08
+Quality=2
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.000  Zcor=59
+Station(1): JCZ.data  R=120.2km  AZI=60.3  W=1.229  Zcor=64
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.498  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=1935.665
+Mxy=11295.394
+Mxz=5207.606
+Myy=-6372.047
+Myz=-5445.214
+Mzz=4436.382
+eigen1=6.66361e+23
+eigen2=1.01985e+24
+eigen3=-1.68621e+24
+Mo=1.35303e+24  (1.68621e+24)
+Mw=5.36
+Strike=258 ; 167
+Rake=-153 ; -1
+Dip=89 ; 63
+Pdc=21
+Pclvd=79
+Piso=0
+Variance=3.276e-06
+VarRed=5.208e+01
+Var/Pdc=1.563e-07
+Quality=2
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8509.720
+Mxy=11473.551
+Mxz=8501.734
+Myy=-8581.078
+Myz=-3604.184
+Mzz=71.358
+eigen1=7.18851e+22
+eigen2=1.66568e+24
+eigen3=-1.73757e+24
+Mo=1.70162e+24  (1.73757e+24)
+Mw=5.42
+Strike=252 ; 161
+Rake=-147 ; -1
+Dip=89 ; 57
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=1.745e-05
+VarRed=2.237e+01
+Var/Pdc=1.902e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8509.720
+Mxy=11473.551
+Mxz=8501.734
+Myy=-8581.078
+Myz=-3604.184
+Mzz=71.358
+eigen1=7.18851e+22
+eigen2=1.66568e+24
+eigen3=-1.73757e+24
+Mo=1.70162e+24  (1.73757e+24)
+Mw=5.42
+Strike=252 ; 161
+Rake=-147 ; -1
+Dip=89 ; 57
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=1.745e-05
+VarRed=2.237e+01
+Var/Pdc=1.902e-07
+Quality=1
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=2.223  Zcor=63
+Station(4): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(5): PYZ.data  R=183.4km  AZI=199.7  W=1.883  Zcor=71
+Station(6): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(7): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5458.935
+Mxy=11016.800
+Mxz=6326.044
+Myy=-8887.993
+Myz=1224.891
+Mzz=3429.059
+eigen1=2.88368e+22
+eigen2=1.47925e+24
+eigen3=-1.50809e+24
+Mo=1.49367e+24  (1.50809e+24)
+Mw=5.39
+Strike=70 ; 167
+Rake=154 ; 17
+Dip=75 ; 65
+Pdc=96
+Pclvd=4
+Piso=0
+Variance=1.372e-05
+VarRed=2.286e+01
+Var/Pdc=1.427e-07
+Quality=1
+isoflag=5 Depth=0
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6055.894
+Mxy=10162.606
+Mxz=-12629367808.000
+Myy=-1786.738
+Myz=18153281536.000
+Mzz=-4269.155
+eigen1=1.30265e+24
+eigen2=2.21143e+30
+eigen3=-2.21143e+30
+Mo=2.21143e+30  (2.21143e+30)
+Mw=9.50
+Strike=215 ; 28
+Rake=90 ; 81
+Dip=90 ; 0
+Pdc=100
+Pclvd=0
+Piso=0
+Variance=2.615e-06
+VarRed=5.618e+01
+Var/Pdc=2.615e-08
+Quality=2
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=5
+isoflag=5 Depth=0
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6055.894
+Mxy=10162.606
+Mxz=-12629367808.000
+Myy=-1786.738
+Myz=18153281536.000
+Mzz=-4269.155
+eigen1=1.30265e+24
+eigen2=2.21143e+30
+eigen3=-2.21143e+30
+Mo=2.21143e+30  (2.21143e+30)
+Mw=9.50
+Strike=215 ; 28
+Rake=90 ; 81
+Dip=90 ; 0
+Pdc=100
+Pclvd=0
+Piso=0
+Variance=2.615e-06
+VarRed=5.618e+01
+Var/Pdc=2.615e-08
+Quality=2
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=15
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1878.548
+Mxy=15113.664
+Mxz=9433.234
+Myy=-16263.325
+Myz=3555.258
+Mzz=18141.873
+eigen1=1.76666e+23
+eigen2=2.41423e+24
+eigen3=-2.5909e+24
+Mo=2.50257e+24  (2.5909e+24)
+Mw=5.54
+Strike=59 ; 185
+Rake=129 ; 48
+Dip=55 ; 50
+Pdc=86
+Pclvd=14
+Piso=0
+Variance=5.624e-07
+VarRed=9.013e+01
+Var/Pdc=6.512e-09
+Quality=4
+isoflag=5 Depth=16
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1046.156
+Mxy=15380.163
+Mxz=9182.006
+Myy=-15975.521
+Myz=3346.125
+Mzz=17021.676
+eigen1=2.39989e+23
+eigen2=2.33105e+24
+eigen3=-2.57104e+24
+Mo=2.45104e+24  (2.57104e+24)
+Mw=5.53
+Strike=60 ; 183
+Rake=131 ; 46
+Dip=56 ; 51
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=5.591e-07
+VarRed=9.016e+01
+Var/Pdc=6.874e-09
+Quality=4
+isoflag=5 Depth=17
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-264.356
+Mxy=15661.223
+Mxz=8964.872
+Myy=-15710.949
+Myz=3164.020
+Mzz=15975.306
+eigen1=2.93764e+23
+eigen2=2.26193e+24
+eigen3=-2.5557e+24
+Mo=2.40881e+24  (2.5557e+24)
+Mw=5.52
+Strike=62 ; 182
+Rake=133 ; 43
+Dip=57 ; 52
+Pdc=77
+Pclvd=23
+Piso=0
+Variance=5.664e-07
+VarRed=9.001e+01
+Var/Pdc=7.355e-09
+Quality=4
+isoflag=5 Depth=18
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=447.396
+Mxy=15960.024
+Mxz=8774.052
+Myy=-15497.551
+Myz=3003.235
+Mzz=15050.155
+eigen1=3.39066e+23
+eigen2=2.20858e+24
+eigen3=-2.54765e+24
+Mo=2.37812e+24  (2.54765e+24)
+Mw=5.52
+Strike=63 ; 180
+Rake=135 ; 41
+Dip=59 ; 53
+Pdc=73
+Pclvd=27
+Piso=0
+Variance=5.796e-07
+VarRed=8.976e+01
+Var/Pdc=7.898e-09
+Quality=4
+isoflag=5 Depth=19
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=1087.297
+Mxy=16277.848
+Mxz=8603.610
+Myy=-15346.913
+Myz=2859.801
+Mzz=14259.616
+eigen1=3.77652e+23
+eigen2=2.17019e+24
+eigen3=-2.54784e+24
+Mo=2.35902e+24  (2.54784e+24)
+Mw=5.52
+Strike=64 ; 179
+Rake=138 ; 38
+Dip=60 ; 54
+Pdc=70
+Pclvd=30
+Piso=0
+Variance=5.959e-07
+VarRed=8.947e+01
+Var/Pdc=8.470e-09
+Quality=4
+isoflag=5 Depth=20
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=1660.422
+Mxy=16616.605
+Mxz=8448.999
+Myy=-15260.104
+Myz=2730.329
+Mzz=13599.682
+eigen1=4.11445e+23
+eigen2=2.1449e+24
+eigen3=-2.55635e+24
+Mo=2.35063e+24  (2.55635e+24)
+Mw=5.52
+Strike=65 ; 177
+Rake=140 ; 36
+Dip=61 ; 56
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=6.135e-07
+VarRed=8.915e+01
+Var/Pdc=9.048e-09
+Quality=4
+isoflag=5 Depth=21
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=2175.002
+Mxy=16978.891
+Mxz=8306.396
+Myy=-15237.287
+Myz=2611.926
+Mzz=13062.285
+eigen1=4.42334e+23
+eigen2=2.13083e+24
+eigen3=-2.57317e+24
+Mo=2.352e+24  (2.57317e+24)
+Mw=5.52
+Strike=66 ; 176
+Rake=142 ; 34
+Dip=62 ; 57
+Pdc=66
+Pclvd=34
+Piso=0
+Variance=6.314e-07
+VarRed=8.883e+01
+Var/Pdc=9.622e-09
+Quality=4
+isoflag=5 Depth=22
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=2638.652
+Mxy=17367.443
+Mxz=8172.306
+Myy=-15278.046
+Myz=2502.731
+Mzz=12639.394
+eigen1=4.72002e+23
+eigen2=2.12628e+24
+eigen3=-2.59828e+24
+Mo=2.36228e+24  (2.59828e+24)
+Mw=5.52
+Strike=67 ; 175
+Rake=143 ; 32
+Dip=63 ; 58
+Pdc=64
+Pclvd=36
+Piso=0
+Variance=6.490e-07
+VarRed=8.851e+01
+Var/Pdc=1.019e-08
+Quality=4
+isoflag=5 Depth=23
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3059.644
+Mxy=17783.941
+Mxz=8044.478
+Myy=-15382.153
+Myz=2400.930
+Mzz=12322.510
+eigen1=5.01789e+23
+eigen2=2.1298e+24
+eigen3=-2.63159e+24
+Mo=2.38069e+24  (2.63159e+24)
+Mw=5.52
+Strike=67 ; 174
+Rake=145 ; 31
+Dip=64 ; 59
+Pdc=62
+Pclvd=38
+Piso=0
+Variance=6.660e-07
+VarRed=8.820e+01
+Var/Pdc=1.077e-08
+Quality=4
+isoflag=5 Depth=24
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3443.728
+Mxy=18230.768
+Mxz=7921.106
+Myy=-15549.615
+Myz=2304.840
+Mzz=12105.887
+eigen1=5.32886e+23
+eigen2=2.14026e+24
+eigen3=-2.67314e+24
+Mo=2.4067e+24  (2.67314e+24)
+Mw=5.52
+Strike=68 ; 174
+Rake=146 ; 29
+Dip=65 ; 60
+Pdc=60
+Pclvd=40
+Piso=0
+Variance=6.820e-07
+VarRed=8.791e+01
+Var/Pdc=1.134e-08
+Quality=4
+isoflag=5 Depth=0
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6055.894
+Mxy=10162.606
+Mxz=-12629367808.000
+Myy=-1786.738
+Myz=18153281536.000
+Mzz=-4269.155
+eigen1=1.30265e+24
+eigen2=2.21143e+30
+eigen3=-2.21143e+30
+Mo=2.21143e+30  (2.21143e+30)
+Mw=9.50
+Strike=215 ; 28
+Rake=90 ; 81
+Dip=90 ; 0
+Pdc=100
+Pclvd=0
+Piso=0
+Variance=2.615e-06
+VarRed=5.618e+01
+Var/Pdc=2.615e-08
+Quality=2
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=15
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1878.548
+Mxy=15113.664
+Mxz=9433.234
+Myy=-16263.325
+Myz=3555.258
+Mzz=18141.873
+eigen1=1.76666e+23
+eigen2=2.41423e+24
+eigen3=-2.5909e+24
+Mo=2.50257e+24  (2.5909e+24)
+Mw=5.54
+Strike=59 ; 185
+Rake=129 ; 48
+Dip=55 ; 50
+Pdc=86
+Pclvd=14
+Piso=0
+Variance=5.624e-07
+VarRed=9.013e+01
+Var/Pdc=6.512e-09
+Quality=4
+isoflag=5 Depth=16
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1046.156
+Mxy=15380.163
+Mxz=9182.006
+Myy=-15975.521
+Myz=3346.125
+Mzz=17021.676
+eigen1=2.39989e+23
+eigen2=2.33105e+24
+eigen3=-2.57104e+24
+Mo=2.45104e+24  (2.57104e+24)
+Mw=5.53
+Strike=60 ; 183
+Rake=131 ; 46
+Dip=56 ; 51
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=5.591e-07
+VarRed=9.016e+01
+Var/Pdc=6.874e-09
+Quality=4
+isoflag=5 Depth=17
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-69.797
+Mxy=15534.997
+Mxz=8790.320
+Myy=-15752.735
+Myz=3645.956
+Mzz=15822.532
+eigen1=2.76769e+23
+eigen2=2.26038e+24
+eigen3=-2.53715e+24
+Mo=2.39876e+24  (2.53715e+24)
+Mw=5.52
+Strike=62 ; 181
+Rake=134 ; 43
+Dip=57 ; 53
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=5.943e-07
+VarRed=8.968e+01
+Var/Pdc=7.602e-09
+Quality=4
+isoflag=5 Depth=18
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=652.906
+Mxy=15834.664
+Mxz=8602.179
+Myy=-15540.281
+Myz=3469.373
+Mzz=14887.375
+eigen1=3.21867e+23
+eigen2=2.20715e+24
+eigen3=-2.52902e+24
+Mo=2.36808e+24  (2.52902e+24)
+Mw=5.52
+Strike=63 ; 180
+Rake=136 ; 41
+Dip=58 ; 54
+Pdc=75
+Pclvd=25
+Piso=0
+Variance=6.067e-07
+VarRed=8.945e+01
+Var/Pdc=8.138e-09
+Quality=4
+isoflag=5 Depth=19
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=1302.207
+Mxy=16152.896
+Mxz=8432.751
+Myy=-15392.392
+Myz=3312.344
+Mzz=14090.185
+eigen1=3.60211e+23
+eigen2=2.16903e+24
+eigen3=-2.52924e+24
+Mo=2.34914e+24  (2.52924e+24)
+Mw=5.52
+Strike=64 ; 178
+Rake=139 ; 38
+Dip=59 ; 55
+Pdc=72
+Pclvd=28
+Piso=0
+Variance=6.219e-07
+VarRed=8.917e+01
+Var/Pdc=8.696e-09
+Quality=4
+isoflag=5 Depth=20
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11144.153
+Mxy=8324.633
+Mxz=6957.936
+Myy=-12290.852
+Myz=1169.346
+Mzz=1146.698
+eigen1=-1.88619e+23
+eigen2=-1.50162e+24
+eigen3=1.69023e+24
+Mo=1.59592e+24  (1.69023e+24)
+Mw=5.41
+Strike=60 ; 155
+Rake=160 ; 15
+Dip=76 ; 70
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=3.877e-06
+VarRed=3.897e+01
+Var/Pdc=4.991e-08
+Quality=1
+isoflag=5 Depth=21
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11367.844
+Mxy=8538.411
+Mxz=6804.034
+Myy=-12386.922
+Myz=1090.258
+Mzz=1019.078
+eigen1=-1.81039e+23
+eigen2=-1.52125e+24
+eigen3=1.70229e+24
+Mo=1.61177e+24  (1.70229e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=160 ; 14
+Dip=77 ; 71
+Pdc=79
+Pclvd=21
+Piso=0
+Variance=3.889e-06
+VarRed=3.876e+01
+Var/Pdc=4.940e-08
+Quality=1
+isoflag=5 Depth=22
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11602.742
+Mxy=8768.054
+Mxz=6658.929
+Myy=-12516.467
+Myz=1019.613
+Mzz=913.725
+eigen1=-1.73015e+23
+eigen2=-1.54467e+24
+eigen3=1.71769e+24
+Mo=1.63118e+24  (1.71769e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=77 ; 71
+Pdc=80
+Pclvd=20
+Piso=0
+Variance=3.899e-06
+VarRed=3.857e+01
+Var/Pdc=4.883e-08
+Quality=1
+isoflag=5 Depth=23
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11854.665
+Mxy=9014.250
+Mxz=6521.718
+Myy=-12682.618
+Myz=956.219
+Mzz=827.953
+eigen1=-1.64546e+23
+eigen2=-1.57214e+24
+eigen3=1.73668e+24
+Mo=1.65441e+24  (1.73668e+24)
+Mw=5.42
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=78 ; 72
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=3.907e-06
+VarRed=3.842e+01
+Var/Pdc=4.821e-08
+Quality=1
+isoflag=5 Depth=24
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=12127.046
+Mxy=9278.504
+Mxz=6390.832
+Myy=-12888.008
+Myz=899.050
+Mzz=760.962
+eigen1=-1.55479e+23
+eigen2=-1.60393e+24
+eigen3=1.75941e+24
+Mo=1.68167e+24  (1.75941e+24)
+Mw=5.42
+Strike=62 ; 155
+Rake=162 ; 12
+Dip=79 ; 72
+Pdc=82
+Pclvd=18
+Piso=0
+Variance=3.912e-06
+VarRed=3.831e+01
+Var/Pdc=4.752e-08
+Quality=1
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=15
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1878.548
+Mxy=15113.664
+Mxz=9433.234
+Myy=-16263.325
+Myz=3555.258
+Mzz=18141.873
+eigen1=1.76666e+23
+eigen2=2.41423e+24
+eigen3=-2.5909e+24
+Mo=2.50257e+24  (2.5909e+24)
+Mw=5.54
+Strike=59 ; 185
+Rake=129 ; 48
+Dip=55 ; 50
+Pdc=86
+Pclvd=14
+Piso=0
+Variance=5.624e-07
+VarRed=9.013e+01
+Var/Pdc=6.512e-09
+Quality=4
+isoflag=5 Depth=16
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1046.156
+Mxy=15380.163
+Mxz=9182.006
+Myy=-15975.521
+Myz=3346.125
+Mzz=17021.676
+eigen1=2.39989e+23
+eigen2=2.33105e+24
+eigen3=-2.57104e+24
+Mo=2.45104e+24  (2.57104e+24)
+Mw=5.53
+Strike=60 ; 183
+Rake=131 ; 46
+Dip=56 ; 51
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=5.591e-07
+VarRed=9.016e+01
+Var/Pdc=6.874e-09
+Quality=4
+isoflag=5 Depth=17
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-69.797
+Mxy=15534.997
+Mxz=8790.320
+Myy=-15752.735
+Myz=3645.956
+Mzz=15822.532
+eigen1=2.76769e+23
+eigen2=2.26038e+24
+eigen3=-2.53715e+24
+Mo=2.39876e+24  (2.53715e+24)
+Mw=5.52
+Strike=62 ; 181
+Rake=134 ; 43
+Dip=57 ; 53
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=5.943e-07
+VarRed=8.968e+01
+Var/Pdc=7.602e-09
+Quality=4
+isoflag=5 Depth=18
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=652.906
+Mxy=15834.664
+Mxz=8602.179
+Myy=-15540.281
+Myz=3469.373
+Mzz=14887.375
+eigen1=3.21867e+23
+eigen2=2.20715e+24
+eigen3=-2.52902e+24
+Mo=2.36808e+24  (2.52902e+24)
+Mw=5.52
+Strike=63 ; 180
+Rake=136 ; 41
+Dip=58 ; 54
+Pdc=75
+Pclvd=25
+Piso=0
+Variance=6.067e-07
+VarRed=8.945e+01
+Var/Pdc=8.138e-09
+Quality=4
+isoflag=5 Depth=19
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=1302.207
+Mxy=16152.896
+Mxz=8432.751
+Myy=-15392.392
+Myz=3312.344
+Mzz=14090.185
+eigen1=3.60211e+23
+eigen2=2.16903e+24
+eigen3=-2.52924e+24
+Mo=2.34914e+24  (2.52924e+24)
+Mw=5.52
+Strike=64 ; 178
+Rake=139 ; 38
+Dip=59 ; 55
+Pdc=72
+Pclvd=28
+Piso=0
+Variance=6.219e-07
+VarRed=8.917e+01
+Var/Pdc=8.696e-09
+Quality=4
+isoflag=5 Depth=20
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11144.153
+Mxy=8324.633
+Mxz=6957.936
+Myy=-12290.852
+Myz=1169.346
+Mzz=1146.698
+eigen1=-1.88619e+23
+eigen2=-1.50162e+24
+eigen3=1.69023e+24
+Mo=1.59592e+24  (1.69023e+24)
+Mw=5.41
+Strike=60 ; 155
+Rake=160 ; 15
+Dip=76 ; 70
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=3.877e-06
+VarRed=3.897e+01
+Var/Pdc=4.991e-08
+Quality=1
+isoflag=5 Depth=21
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11367.844
+Mxy=8538.411
+Mxz=6804.034
+Myy=-12386.922
+Myz=1090.258
+Mzz=1019.078
+eigen1=-1.81039e+23
+eigen2=-1.52125e+24
+eigen3=1.70229e+24
+Mo=1.61177e+24  (1.70229e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=160 ; 14
+Dip=77 ; 71
+Pdc=79
+Pclvd=21
+Piso=0
+Variance=3.889e-06
+VarRed=3.876e+01
+Var/Pdc=4.940e-08
+Quality=1
+isoflag=5 Depth=22
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11602.742
+Mxy=8768.054
+Mxz=6658.929
+Myy=-12516.467
+Myz=1019.613
+Mzz=913.725
+eigen1=-1.73015e+23
+eigen2=-1.54467e+24
+eigen3=1.71769e+24
+Mo=1.63118e+24  (1.71769e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=77 ; 71
+Pdc=80
+Pclvd=20
+Piso=0
+Variance=3.899e-06
+VarRed=3.857e+01
+Var/Pdc=4.883e-08
+Quality=1
+isoflag=5 Depth=23
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11854.665
+Mxy=9014.250
+Mxz=6521.718
+Myy=-12682.618
+Myz=956.219
+Mzz=827.953
+eigen1=-1.64546e+23
+eigen2=-1.57214e+24
+eigen3=1.73668e+24
+Mo=1.65441e+24  (1.73668e+24)
+Mw=5.42
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=78 ; 72
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=3.907e-06
+VarRed=3.842e+01
+Var/Pdc=4.821e-08
+Quality=1
+isoflag=5 Depth=24
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=12127.046
+Mxy=9278.504
+Mxz=6390.832
+Myy=-12888.008
+Myz=899.050
+Mzz=760.962
+eigen1=-1.55479e+23
+eigen2=-1.60393e+24
+eigen3=1.75941e+24
+Mo=1.68167e+24  (1.75941e+24)
+Mw=5.42
+Strike=62 ; 155
+Rake=162 ; 12
+Dip=79 ; 72
+Pdc=82
+Pclvd=18
+Piso=0
+Variance=3.912e-06
+VarRed=3.831e+01
+Var/Pdc=4.752e-08
+Quality=1
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=15
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1878.548
+Mxy=15113.664
+Mxz=9433.234
+Myy=-16263.325
+Myz=3555.258
+Mzz=18141.873
+eigen1=1.76666e+23
+eigen2=2.41423e+24
+eigen3=-2.5909e+24
+Mo=2.50257e+24  (2.5909e+24)
+Mw=5.54
+Strike=59 ; 185
+Rake=129 ; 48
+Dip=55 ; 50
+Pdc=86
+Pclvd=14
+Piso=0
+Variance=5.624e-07
+VarRed=9.013e+01
+Var/Pdc=6.512e-09
+Quality=4
+isoflag=5 Depth=16
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1046.156
+Mxy=15380.163
+Mxz=9182.006
+Myy=-15975.521
+Myz=3346.125
+Mzz=17021.676
+eigen1=2.39989e+23
+eigen2=2.33105e+24
+eigen3=-2.57104e+24
+Mo=2.45104e+24  (2.57104e+24)
+Mw=5.53
+Strike=60 ; 183
+Rake=131 ; 46
+Dip=56 ; 51
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=5.591e-07
+VarRed=9.016e+01
+Var/Pdc=6.874e-09
+Quality=4
+isoflag=5 Depth=17
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-69.797
+Mxy=15534.997
+Mxz=8790.320
+Myy=-15752.735
+Myz=3645.956
+Mzz=15822.532
+eigen1=2.76769e+23
+eigen2=2.26038e+24
+eigen3=-2.53715e+24
+Mo=2.39876e+24  (2.53715e+24)
+Mw=5.52
+Strike=62 ; 181
+Rake=134 ; 43
+Dip=57 ; 53
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=5.943e-07
+VarRed=8.968e+01
+Var/Pdc=7.602e-09
+Quality=4
+isoflag=5 Depth=18
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=652.906
+Mxy=15834.664
+Mxz=8602.179
+Myy=-15540.281
+Myz=3469.373
+Mzz=14887.375
+eigen1=3.21867e+23
+eigen2=2.20715e+24
+eigen3=-2.52902e+24
+Mo=2.36808e+24  (2.52902e+24)
+Mw=5.52
+Strike=63 ; 180
+Rake=136 ; 41
+Dip=58 ; 54
+Pdc=75
+Pclvd=25
+Piso=0
+Variance=6.067e-07
+VarRed=8.945e+01
+Var/Pdc=8.138e-09
+Quality=4
+isoflag=5 Depth=19
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=1302.207
+Mxy=16152.896
+Mxz=8432.751
+Myy=-15392.392
+Myz=3312.344
+Mzz=14090.185
+eigen1=3.60211e+23
+eigen2=2.16903e+24
+eigen3=-2.52924e+24
+Mo=2.34914e+24  (2.52924e+24)
+Mw=5.52
+Strike=64 ; 178
+Rake=139 ; 38
+Dip=59 ; 55
+Pdc=72
+Pclvd=28
+Piso=0
+Variance=6.219e-07
+VarRed=8.917e+01
+Var/Pdc=8.696e-09
+Quality=4
+isoflag=5 Depth=20
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11144.153
+Mxy=8324.633
+Mxz=6957.936
+Myy=-12290.852
+Myz=1169.346
+Mzz=1146.698
+eigen1=-1.88619e+23
+eigen2=-1.50162e+24
+eigen3=1.69023e+24
+Mo=1.59592e+24  (1.69023e+24)
+Mw=5.41
+Strike=60 ; 155
+Rake=160 ; 15
+Dip=76 ; 70
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=3.877e-06
+VarRed=3.897e+01
+Var/Pdc=4.991e-08
+Quality=1
+isoflag=5 Depth=21
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11367.844
+Mxy=8538.411
+Mxz=6804.034
+Myy=-12386.922
+Myz=1090.258
+Mzz=1019.078
+eigen1=-1.81039e+23
+eigen2=-1.52125e+24
+eigen3=1.70229e+24
+Mo=1.61177e+24  (1.70229e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=160 ; 14
+Dip=77 ; 71
+Pdc=79
+Pclvd=21
+Piso=0
+Variance=3.889e-06
+VarRed=3.876e+01
+Var/Pdc=4.940e-08
+Quality=1
+isoflag=5 Depth=22
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11602.742
+Mxy=8768.054
+Mxz=6658.929
+Myy=-12516.467
+Myz=1019.613
+Mzz=913.725
+eigen1=-1.73015e+23
+eigen2=-1.54467e+24
+eigen3=1.71769e+24
+Mo=1.63118e+24  (1.71769e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=77 ; 71
+Pdc=80
+Pclvd=20
+Piso=0
+Variance=3.899e-06
+VarRed=3.857e+01
+Var/Pdc=4.883e-08
+Quality=1
+isoflag=5 Depth=23
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11854.665
+Mxy=9014.250
+Mxz=6521.718
+Myy=-12682.618
+Myz=956.219
+Mzz=827.953
+eigen1=-1.64546e+23
+eigen2=-1.57214e+24
+eigen3=1.73668e+24
+Mo=1.65441e+24  (1.73668e+24)
+Mw=5.42
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=78 ; 72
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=3.907e-06
+VarRed=3.842e+01
+Var/Pdc=4.821e-08
+Quality=1
+isoflag=5 Depth=24
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=12127.046
+Mxy=9278.504
+Mxz=6390.832
+Myy=-12888.008
+Myz=899.050
+Mzz=760.962
+eigen1=-1.55479e+23
+eigen2=-1.60393e+24
+eigen3=1.75941e+24
+Mo=1.68167e+24  (1.75941e+24)
+Mw=5.42
+Strike=62 ; 155
+Rake=162 ; 12
+Dip=79 ; 72
+Pdc=82
+Pclvd=18
+Piso=0
+Variance=3.912e-06
+VarRed=3.831e+01
+Var/Pdc=4.752e-08
+Quality=1
+isoflag=5 Depth=1
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6354.296
+Mxy=11001.122
+Mxz=37761.238
+Myy=-2954.898
+Myz=37172.285
+Mzz=-3399.398
+eigen1=-9.32874e+23
+eigen2=-4.91295e+24
+eigen3=5.84582e+24
+Mo=5.37938e+24  (5.84582e+24)
+Mw=5.76
+Strike=315 ; 85
+Rake=-85 ; -140
+Dip=86 ; 7
+Pdc=68
+Pclvd=32
+Piso=0
+Variance=2.250e-06
+VarRed=6.280e+01
+Var/Pdc=3.304e-08
+Quality=3
+isoflag=5 Depth=2
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6219.645
+Mxy=11355.448
+Mxz=19795.801
+Myy=-3285.958
+Myz=19149.424
+Mzz=-2933.687
+eigen1=-9.8211e+23
+eigen2=-2.4145e+24
+eigen3=3.39661e+24
+Mo=2.90555e+24  (3.39661e+24)
+Mw=5.58
+Strike=318 ; 81
+Rake=-79 ; -147
+Dip=83 ; 14
+Pdc=42
+Pclvd=58
+Piso=0
+Variance=2.184e-06
+VarRed=6.372e+01
+Var/Pdc=5.178e-08
+Quality=3
+isoflag=5 Depth=3
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=6191.741
+Mxy=11696.960
+Mxz=19981.457
+Myy=-3700.273
+Myz=18945.576
+Mzz=-2491.468
+eigen1=-1.04381e+24
+eigen2=-2.38053e+24
+eigen3=3.42434e+24
+Mo=2.90244e+24  (3.42434e+24)
+Mw=5.58
+Strike=318 ; 79
+Rake=-78 ; -148
+Dip=83 ; 14
+Pdc=39
+Pclvd=61
+Piso=0
+Variance=2.109e-06
+VarRed=6.480e+01
+Var/Pdc=5.404e-08
+Quality=3
+isoflag=5 Depth=4
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=5749.536
+Mxy=12015.678
+Mxz=18785.484
+Myy=-4477.467
+Myz=12417.506
+Mzz=-1272.069
+eigen1=-1.24225e+24
+eigen2=-1.75183e+24
+eigen3=2.99407e+24
+Mo=2.37295e+24  (2.99407e+24)
+Mw=5.52
+Strike=303 ; 124
+Rake=-90 ; -90
+Dip=81 ; 9
+Pdc=17
+Pclvd=83
+Piso=0
+Variance=1.996e-06
+VarRed=6.663e+01
+Var/Pdc=1.173e-07
+Quality=3
+isoflag=5 Depth=5
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=4778.462
+Mxy=12330.018
+Mxz=16698.430
+Myy=-5642.086
+Myz=9335.978
+Mzz=863.624
+eigen1=-1.22457e+24
+eigen2=-1.46922e+24
+eigen3=2.69379e+24
+Mo=2.08151e+24  (2.69379e+24)
+Mw=5.48
+Strike=88 ; 183
+Rake=130 ; 7
+Dip=86 ; 40
+Pdc=9
+Pclvd=91
+Piso=0
+Variance=1.889e-06
+VarRed=6.835e+01
+Var/Pdc=2.080e-07
+Quality=3
+isoflag=5 Depth=6
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=3157.326
+Mxy=12652.003
+Mxz=14939.122
+Myy=-7353.221
+Myz=7610.157
+Mzz=4195.895
+eigen1=-8.8238e+23
+eigen2=-1.61695e+24
+eigen3=2.49933e+24
+Mo=2.05814e+24  (2.49933e+24)
+Mw=5.48
+Strike=75 ; 178
+Rake=143 ; 22
+Dip=72 ; 55
+Pdc=29
+Pclvd=71
+Piso=0
+Variance=1.758e-06
+VarRed=7.048e+01
+Var/Pdc=5.982e-08
+Quality=3
+isoflag=5 Depth=7
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=903.882
+Mxy=12971.438
+Mxz=13564.721
+Myy=-9663.186
+Myz=6534.066
+Mzz=8759.304
+eigen1=-5.5324e+23
+eigen2=-1.86221e+24
+eigen3=2.41545e+24
+Mo=2.13883e+24  (2.41545e+24)
+Mw=5.49
+Strike=71 ; 179
+Rake=141 ; 30
+Dip=65 ; 55
+Pdc=54
+Pclvd=46
+Piso=0
+Variance=1.580e-06
+VarRed=7.342e+01
+Var/Pdc=2.916e-08
+Quality=3
+isoflag=5 Depth=8
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1587.536
+Mxy=13286.965
+Mxz=12475.091
+Myy=-12282.646
+Myz=5808.433
+Mzz=13870.182
+eigen1=-3.24146e+23
+eigen2=-2.14208e+24
+eigen3=2.46623e+24
+Mo=2.30415e+24  (2.46623e+24)
+Mw=5.51
+Strike=66 ; 183
+Rake=135 ; 39
+Dip=60 ; 53
+Pdc=74
+Pclvd=26
+Piso=0
+Variance=1.351e-06
+VarRed=7.723e+01
+Var/Pdc=1.833e-08
+Quality=3
+isoflag=5 Depth=9
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3609.810
+Mxy=13579.179
+Mxz=11600.642
+Myy=-14625.819
+Myz=5263.821
+Mzz=18235.629
+eigen1=-2.13376e+23
+eigen2=-2.38932e+24
+eigen3=2.60269e+24
+Mo=2.496e+24  (2.60269e+24)
+Mw=5.53
+Strike=62 ; 187
+Rake=129 ; 47
+Dip=56 ; 50
+Pdc=84
+Pclvd=16
+Piso=0
+Variance=1.104e-06
+VarRed=8.134e+01
+Var/Pdc=1.320e-08
+Quality=4
+isoflag=5 Depth=10
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4625.864
+Mxy=13844.652
+Mxz=10891.377
+Myy=-16173.887
+Myz=4821.005
+Mzz=20799.750
+eigen1=-1.52302e+23
+eigen2=-2.54989e+24
+eigen3=2.70219e+24
+Mo=2.62604e+24  (2.70219e+24)
+Mw=5.55
+Strike=59 ; 189
+Rake=125 ; 52
+Dip=54 ; 49
+Pdc=89
+Pclvd=11
+Piso=0
+Variance=8.881e-07
+VarRed=8.489e+01
+Var/Pdc=1.001e-08
+Quality=4
+isoflag=5 Depth=11
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-4624.764
+Mxy=14089.931
+Mxz=10316.115
+Myy=-16846.766
+Myz=4439.553
+Mzz=21471.529
+eigen1=-8.27149e+22
+eigen2=-2.61808e+24
+eigen3=2.70079e+24
+Mo=2.65943e+24  (2.70079e+24)
+Mw=5.55
+Strike=57 ; 189
+Rake=124 ; 54
+Dip=53 ; 48
+Pdc=94
+Pclvd=6
+Piso=0
+Variance=7.361e-07
+VarRed=8.738e+01
+Var/Pdc=7.841e-09
+Quality=4
+isoflag=5 Depth=12
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3792.726
+Mxy=14364.705
+Mxz=10496.436
+Myy=-16409.709
+Myz=4414.293
+Mzz=20202.436
+eigen1=-4.42547e+22
+eigen2=-2.58893e+24
+eigen3=2.63318e+24
+Mo=2.61105e+24  (2.63318e+24)
+Mw=5.55
+Strike=59 ; 188
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=97
+Pclvd=3
+Piso=0
+Variance=7.312e-07
+VarRed=8.742e+01
+Var/Pdc=7.566e-09
+Quality=4
+isoflag=5 Depth=13
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-3412.858
+Mxy=14611.589
+Mxz=10077.263
+Myy=-16627.477
+Myz=4080.469
+Mzz=20040.334
+eigen1=2.8726e+22
+eigen2=2.58661e+24
+eigen3=-2.61534e+24
+Mo=2.60097e+24  (2.61534e+24)
+Mw=5.55
+Strike=58 ; 187
+Rake=126 ; 51
+Dip=54 ; 49
+Pdc=98
+Pclvd=2
+Piso=0
+Variance=6.354e-07
+VarRed=8.898e+01
+Var/Pdc=6.497e-09
+Quality=4
+isoflag=5 Depth=14
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-2707.542
+Mxy=14859.055
+Mxz=9727.531
+Myy=-16519.047
+Myz=3797.584
+Mzz=19226.590
+eigen1=1.04816e+23
+eigen2=2.50484e+24
+eigen3=-2.60965e+24
+Mo=2.55724e+24  (2.60965e+24)
+Mw=5.54
+Strike=59 ; 186
+Rake=127 ; 50
+Dip=54 ; 49
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=5.840e-07
+VarRed=8.980e+01
+Var/Pdc=6.350e-09
+Quality=4
+isoflag=5 Depth=15
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1878.548
+Mxy=15113.664
+Mxz=9433.234
+Myy=-16263.325
+Myz=3555.258
+Mzz=18141.873
+eigen1=1.76666e+23
+eigen2=2.41423e+24
+eigen3=-2.5909e+24
+Mo=2.50257e+24  (2.5909e+24)
+Mw=5.54
+Strike=59 ; 185
+Rake=129 ; 48
+Dip=55 ; 50
+Pdc=86
+Pclvd=14
+Piso=0
+Variance=5.624e-07
+VarRed=9.013e+01
+Var/Pdc=6.512e-09
+Quality=4
+isoflag=5 Depth=16
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=64
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-1046.156
+Mxy=15380.163
+Mxz=9182.006
+Myy=-15975.521
+Myz=3346.125
+Mzz=17021.676
+eigen1=2.39989e+23
+eigen2=2.33105e+24
+eigen3=-2.57104e+24
+Mo=2.45104e+24  (2.57104e+24)
+Mw=5.53
+Strike=60 ; 183
+Rake=131 ; 46
+Dip=56 ; 51
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=5.591e-07
+VarRed=9.016e+01
+Var/Pdc=6.874e-09
+Quality=4
+isoflag=5 Depth=17
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=-69.797
+Mxy=15534.997
+Mxz=8790.320
+Myy=-15752.735
+Myz=3645.956
+Mzz=15822.532
+eigen1=2.76769e+23
+eigen2=2.26038e+24
+eigen3=-2.53715e+24
+Mo=2.39876e+24  (2.53715e+24)
+Mw=5.52
+Strike=62 ; 181
+Rake=134 ; 43
+Dip=57 ; 53
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=5.943e-07
+VarRed=8.968e+01
+Var/Pdc=7.602e-09
+Quality=4
+isoflag=5 Depth=18
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=652.906
+Mxy=15834.664
+Mxz=8602.179
+Myy=-15540.281
+Myz=3469.373
+Mzz=14887.375
+eigen1=3.21867e+23
+eigen2=2.20715e+24
+eigen3=-2.52902e+24
+Mo=2.36808e+24  (2.52902e+24)
+Mw=5.52
+Strike=63 ; 180
+Rake=136 ; 41
+Dip=58 ; 54
+Pdc=75
+Pclvd=25
+Piso=0
+Variance=6.067e-07
+VarRed=8.945e+01
+Var/Pdc=8.138e-09
+Quality=4
+isoflag=5 Depth=19
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=63
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=1302.207
+Mxy=16152.896
+Mxz=8432.751
+Myy=-15392.392
+Myz=3312.344
+Mzz=14090.185
+eigen1=3.60211e+23
+eigen2=2.16903e+24
+eigen3=-2.52924e+24
+Mo=2.34914e+24  (2.52924e+24)
+Mw=5.52
+Strike=64 ; 178
+Rake=139 ; 38
+Dip=59 ; 55
+Pdc=72
+Pclvd=28
+Piso=0
+Variance=6.219e-07
+VarRed=8.917e+01
+Var/Pdc=8.696e-09
+Quality=4
+isoflag=5 Depth=20
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11144.153
+Mxy=8324.633
+Mxz=6957.936
+Myy=-12290.852
+Myz=1169.346
+Mzz=1146.698
+eigen1=-1.88619e+23
+eigen2=-1.50162e+24
+eigen3=1.69023e+24
+Mo=1.59592e+24  (1.69023e+24)
+Mw=5.41
+Strike=60 ; 155
+Rake=160 ; 15
+Dip=76 ; 70
+Pdc=78
+Pclvd=22
+Piso=0
+Variance=3.877e-06
+VarRed=3.897e+01
+Var/Pdc=4.991e-08
+Quality=1
+isoflag=5 Depth=21
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11367.844
+Mxy=8538.411
+Mxz=6804.034
+Myy=-12386.922
+Myz=1090.258
+Mzz=1019.078
+eigen1=-1.81039e+23
+eigen2=-1.52125e+24
+eigen3=1.70229e+24
+Mo=1.61177e+24  (1.70229e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=160 ; 14
+Dip=77 ; 71
+Pdc=79
+Pclvd=21
+Piso=0
+Variance=3.889e-06
+VarRed=3.876e+01
+Var/Pdc=4.940e-08
+Quality=1
+isoflag=5 Depth=22
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11602.742
+Mxy=8768.054
+Mxz=6658.929
+Myy=-12516.467
+Myz=1019.613
+Mzz=913.725
+eigen1=-1.73015e+23
+eigen2=-1.54467e+24
+eigen3=1.71769e+24
+Mo=1.63118e+24  (1.71769e+24)
+Mw=5.41
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=77 ; 71
+Pdc=80
+Pclvd=20
+Piso=0
+Variance=3.899e-06
+VarRed=3.857e+01
+Var/Pdc=4.883e-08
+Quality=1
+isoflag=5 Depth=23
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=11854.665
+Mxy=9014.250
+Mxz=6521.718
+Myy=-12682.618
+Myz=956.219
+Mzz=827.953
+eigen1=-1.64546e+23
+eigen2=-1.57214e+24
+eigen3=1.73668e+24
+Mo=1.65441e+24  (1.73668e+24)
+Mw=5.42
+Strike=61 ; 155
+Rake=161 ; 13
+Dip=78 ; 72
+Pdc=81
+Pclvd=19
+Piso=0
+Variance=3.907e-06
+VarRed=3.842e+01
+Var/Pdc=4.821e-08
+Quality=1
+isoflag=5 Depth=24
+Station Information
+Station(0): JCZ.data  R=120.2km  AZI=60.3  W=1.000  Zcor=63
+Station(1): WKZ.data  R=123.9km  AZI=101.5  W=1.031  Zcor=52
+Station(2): WHZ.data  R=146.5km  AZI=165.7  W=1.219  Zcor=63
+Station(3): LBZ.data  R=216.5km  AZI=84.2  W=1.801  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=12127.046
+Mxy=9278.504
+Mxz=6390.832
+Myy=-12888.008
+Myz=899.050
+Mzz=760.962
+eigen1=-1.55479e+23
+eigen2=-1.60393e+24
+eigen3=1.75941e+24
+Mo=1.68167e+24  (1.75941e+24)
+Mw=5.42
+Strike=62 ; 155
+Rake=162 ; 12
+Dip=79 ; 72
+Pdc=82
+Pclvd=18
+Piso=0
+Variance=3.912e-06
+VarRed=3.831e+01
+Var/Pdc=4.752e-08
+Quality=1
