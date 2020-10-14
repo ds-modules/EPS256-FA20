@@ -1,0 +1,31 @@
+isoflag=5 Depth=5
+Station Information
+Station(0): DCZ.data  R=97.8km  AZI=195.2  W=1.004  Zcor=59
+Station(1): EAZ.data  R=159.6km  AZI=116.0  W=1.639  Zcor=71
+Station(2): JCZ.data  R=120.2km  AZI=60.3  W=1.234  Zcor=64
+Station(3): MLZ.data  R=97.4km  AZI=149.2  W=1.000  Zcor=64
+Station(4): WHZ.data  R=146.5km  AZI=165.7  W=1.504  Zcor=63
+Station(5): WKZ.data  R=123.9km  AZI=101.5  W=1.272  Zcor=63
+isomoment=0
+MT Aki Convention
+Mxx=8509.720
+Mxy=11473.551
+Mxz=8501.734
+Myy=-8581.078
+Myz=-3604.184
+Mzz=71.358
+eigen1=7.18851e+22
+eigen2=1.66568e+24
+eigen3=-1.73757e+24
+Mo=1.70162e+24  (1.73757e+24)
+Mw=5.42
+Strike=252 ; 161
+Rake=-147 ; -1
+Dip=89 ; 57
+Pdc=92
+Pclvd=8
+Piso=0
+Variance=1.745e-05
+VarRed=2.237e+01
+Var/Pdc=1.902e-07
+Quality=1

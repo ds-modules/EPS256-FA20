@@ -1,0 +1,65 @@
+#! /bin/csh
+# Window out the eight vectors for many distances
+# Remember to set NT and DT CORRECTLY!
+#
+set   dt=1.00
+set npts=512
+set hcrn=0.05
+set lcrn=0.02
+#
+fromHelm < $1 > tmp2
+window nt=$npts nx=10 nv=1 v0=0 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > tss
+window nt=$npts nx=10 nv=1 v0=1 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > tds
+window nt=$npts nx=10 nv=1 v0=2 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > xss
+window nt=$npts nx=10 nv=1 v0=3 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > xds
+window nt=$npts nx=10 nv=1 v0=4 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > xdd
+window nt=$npts nx=10 nv=1 v0=5 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > zss
+window nt=$npts nx=10 nv=1 v0=6 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > zds
+window nt=$npts nx=10 nv=1 v0=7 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > zdd
+window nt=$npts nx=10 nv=1 v0=8 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > rex
+window nt=$npts nx=10 nv=1 v0=9 < tmp2 > tmp3
+bin2sac par=b2s.par npts=$npts < tmp3 > zex
+sac << end
+setbb HCRN $hcrn
+getbb HCRN
+setbb LCRN $lcrn
+getbb LCRN
+read tss tds xss xds xdd zss zds zdd rex zex
+bp co %LCRN %HCRN p 2
+write over
+quit
+end
+#
+#
+sac2bin in=tss out=tmp
+\mv tmp tss
+sac2bin in=tds out=tmp
+\mv tmp tds
+sac2bin in=xss out=tmp
+\mv tmp xss
+sac2bin in=xds out=tmp
+\mv tmp xds
+sac2bin in=xdd out=tmp
+\mv tmp xdd
+sac2bin in=zss out=tmp
+\mv tmp zss
+sac2bin in=zds out=tmp
+\mv tmp zds
+sac2bin in=zdd out=tmp
+\mv tmp zdd
+sac2bin in=rex out=tmp
+\mv tmp rex
+sac2bin in=zex out=tmp
+\mv tmp zex
+cat tss tds xss xds xdd zss zds zdd rex zex > tmp2
+mkHelm ntr=10 nt=$npts dt=$dt format="(6e12.5)" < tmp2 > $2
+\rm tss tds xss xds xdd zss zds zdd rex zex tmp*

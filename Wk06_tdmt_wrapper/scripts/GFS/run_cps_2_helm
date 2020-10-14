@@ -1,0 +1,84 @@
+#!/bin/csh
+# Computer Programs in Seismology (CPS3.30)
+# http://www.eas.slu.edu/eqc/eqccps.html
+# Bob Herrmann's FK code to generate Green's functions.
+# Inputs: veloctiy model and distance file; b2s.par needed for script "run_filtsyniso"
+## The folloing parameter sets the name of the Green's function file. You will need to change it to 'it1_', it_2' etc. You do not need to change
+## anything lese for this exercise.
+
+  if ($#argv != 4) then
+    echo ""
+    echo "Usage: run_cps_2_helm <depth> <sta_dist> <mod_short> <loopend"
+    echo "   depth is source depth in km"
+    echo ""
+    exit 1
+  endif
+
+set name=`echo $3`_
+echo $name
+
+### Do Not Change ####
+set dt=1.00
+set npts=512
+set loopend=$4
+set depth=$1
+set idist=(001 002 003 004 005 006 007 008 009 010 011 012 013 014 015 016 017 018 019 020 021 022 023 024 025 026 027 028 029 030 031 032 033 034 035 036 037 038 039 040)
+set fdist=`echo $2`
+
+echo $idist
+echo $fdist
+
+
+set cnt=1
+while ($cnt <= $loopend)
+
+##
+## First construct MT Helmberger format files
+##
+\cp B{$idist[$cnt]}08TSS.sac tss
+\cp B{$idist[$cnt]}05TDS.sac tds
+\cp B{$idist[$cnt]}07RSS.sac rss
+\cp B{$idist[$cnt]}04RDS.sac rds
+\cp B{$idist[$cnt]}02RDD.sac rdd
+\cp B{$idist[$cnt]}06ZSS.sac zss
+\cp B{$idist[$cnt]}03ZDS.sac zds
+\cp B{$idist[$cnt]}01ZDD.sac zdd
+\cp B{$idist[$cnt]}10REX.sac rex
+\cp B{$idist[$cnt]}09ZEX.sac zex
+
+sac << sacend
+read tss zss rds zdd
+mul -1
+write over
+quit
+sacend
+
+sac2bin in=tss out=tmp
+\mv tmp tss
+sac2bin in=tds out=tmp
+\mv tmp tds
+sac2bin in=rss out=tmp
+\mv tmp rss
+sac2bin in=rds out=tmp
+\mv tmp rds
+sac2bin in=rdd out=tmp
+\mv tmp rdd
+sac2bin in=zss out=tmp
+\mv tmp zss
+sac2bin in=zds out=tmp
+\mv tmp zds
+sac2bin in=zdd out=tmp
+\mv tmp zdd
+sac2bin in=rex out=tmp
+\mv tmp rex
+sac2bin in=zex out=tmp
+\mv tmp zex
+cat tss tds rss rds rdd zss zds zdd rex zex > tmp
+echo {$name}{$fdist[$cnt]}d{$depth}
+mkHelm ntr=10 nt=$npts dt=$dt format="(6e13.5)" < tmp > {$name}{$fdist[$cnt]}d{$depth}.disp
+
+\rm tss tds rss rds rdd zss zds zdd rex zex tmp*
+
+@ cnt++
+end
+

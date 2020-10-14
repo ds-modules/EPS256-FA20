@@ -1,0 +1,24 @@
+#!/bin/csh
+
+  if ($#argv != 2) then
+    echo ""
+    echo "Usage: run_cps <depth>"
+    echo "   depth is source depth in km"
+    echo "   csh script to run the CPS3.3 FK-Integration Software  "
+    echo ""
+    echo "  outputs:"
+    echo "    hspec96.out"
+    echo ""
+    exit 1
+  endif
+
+  set vel_mod = $1
+  set depth = $2
+
+echo $vel_mod
+echo $depth
+
+hprep96 -M $vel_mod -d dfile -HS $depth -HR 0.0 -TF -BH -ALL
+hspec96 > hspec96.out
+hpulse96 -i -D > hpulse96.out
+f96tosac < hpulse96.out
