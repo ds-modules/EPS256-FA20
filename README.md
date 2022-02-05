@@ -1,4 +1,4 @@
-# Earthquake of the Week - EPS256 - Fall 2020
+# Earthquake of the Week - EPS256
 
 Berkeley Seismology Lab - Graduate Seminar on Earthquakes - Prof Richard Allen
 
